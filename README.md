@@ -35,7 +35,12 @@ colabfold_results/
 │   ├── model_*_structures.png
 │   └── comprehensive_analysis_plots.png
 ├── notebook_outputs/        # Raw notebook outputs
-├── screenshots_timeline/    # Browser screenshots during execution
+├── screenshots_timeline/    # Complete visual timeline (97 screenshots)
+│   ├── README.md           # Screenshot documentation
+│   ├── rcsb_org_*.webp     # RCSB PDB data collection
+│   ├── alphafold_*.webp    # AlphaFold research phase  
+│   ├── colab_*.webp        # ColabFold execution
+│   └── github_*.webp       # Repository creation
 └── final_package/          # GitHub-ready package
 ```
 
