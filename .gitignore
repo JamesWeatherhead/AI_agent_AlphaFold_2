@@ -1,0 +1,12 @@
+# Ignore large files and temporary data
+*.tmp
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+
+# Keep all figures and results
+!figures/
+!execution_logs/
+!README.md
+
