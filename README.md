@@ -1,4 +1,6 @@
-# ColabFold Human Lysozyme Prediction - Complete Results Package
+# This entire repo, and the AlphaFold2 run, was automated by an AI Agentic workflow with Computer Vision
+
+## ColabFold Human Lysozyme Prediction - Complete Results Package
 
 ## 🎯 Project Overview
 This repository contains the complete results from running AlphaFold2 via ColabFold on human lysozyme (1REX sequence). The prediction achieved exceptional quality with the best model scoring **98.4 pLDDT** and **0.915 pTM**.
